@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Node js<br>👯 I’m looking to collaborate on Software Development<br>🤝 I’m looking for help with Real-Time project ideas.<br>🌱 I’m currently learning DSA
+🔭 I’m currently working on Node js<br>👯 I’m looking to collaborate on Software Development<br>🤝 I’m looking for help with Real-Time project ideas.<br>🌱 I’m currently learning DSA 
 
 
 ## 🌐 Socials:
